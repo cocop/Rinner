@@ -1,4 +1,4 @@
-import { Rinner } from "../src/rinner.ts";
+import { Rinner } from "../src/mods.ts";
 
 console.log("oktest");
 const ok_r = await Rinner
